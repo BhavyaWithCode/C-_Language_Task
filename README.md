@@ -20,24 +20,32 @@ Check out my latest tasks and updates on my GitHub profile. I update it daily wi
 
 
 ### 🖥️ Task 2: WAP to convert given string into toggle case.
-- [x] **Input**:
-- [x] **Output**:
-- [x] **Screenshot**
+- [x] **Input**: Enter The String :- bhavya
+- [x] **OutPut**: BHAVYA
+- [x] **Screenshot**:![Toggle_String](https://github.com/BhavyaWithCode/Cpp_Language_Task/assets/153913406/9b526c3c-22c4-478d-a36a-312c470697d0)
+
+      
+- [x] **Input**: Enter The String :- BHAVYA
+- [x] **Output**: bhavya
+- [x] **Screenshot**:![Toggle_Strings](https://github.com/BhavyaWithCode/Cpp_Language_Task/assets/153913406/1516d763-9021-416c-82f4-4c60fbf0c4bd)
+
 
 
 ### 📎 Task 3: WAP to find all leap years from 2020 to 3030 and store
 them into an array.
-- [x] **Input**:
-- [x] **Output**:
-- [x] **Screenshot**
+- [x] **Output**:Leap Year From: 2020 2024 2028 2032 2036 2040 2044 2048 2052 2056 2060 2064 2068 2072 2076 2080 2084 2088 2092 2096 2100 2104 2108 2112 2116 2120 2124 2128 2132 2136 2140 2144 2148 2152 2156 2160 2164 2168 2172 2176 2180 2184 2188 2192 2196 2200 2204 2208 2212 2216 2220 2224 2228 2232 2236 2240 2244 2248 2252 2256 2260 2264 2268 2272 2276 2280 2284 2288 2292 2296 2300 2304 2308 2312 2316 2320 2324 2328 2332 2336 2340 2344 2348 2352 2356 2360 2364 2368 2372 2376 2380 2384 2388 2392 2396 2400 2404 2408 2412 2416 2420 2424 2428 2432
+- [x] **Screenshot**![LeapYear](https://github.com/BhavyaWithCode/Cpp_Language_Task/assets/153913406/75e08238-7091-4374-8506-59cfa3e8d586)
 
 
 ### 📌 Task 4: WAP to create a basic calculator with +, -, *, /and %
 operations using switch case and UDF. Add never
 ending functionality using loop.
-- [x] **Input**:
-- [x] **Output**:
-- [x] **Screenshot**
+- [x] **Enter The Operation ( +, -, *, / and % )**: +
+- [x] **Input 1**:Enter The FirstNumber :- 10
+- [x] **Input 2**:Enter The SecondNumber :- 5 
+- [x] **Output**:Result: 5
+- [x] **Screenshot**![Calculator](https://github.com/BhavyaWithCode/Cpp_Language_Task/assets/153913406/ea609c7a-06ee-4bcd-9336-a1432a0701de)
+
       
 ---
 
