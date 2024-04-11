@@ -71,7 +71,8 @@ int main()
 	}
 
     cout << "Details of Fast Food Cafes:" << endl;
-    for(i = 0; i < Number_Of_FastFoodCafes; i++) {
+    for(i = 0; i < Number_Of_FastFoodCafes; i++) 
+	{
         cafes[i].displayInfo();
     }
 

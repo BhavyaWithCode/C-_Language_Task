@@ -6,7 +6,7 @@ class Diamond{
         int comp_id;
         string comp_name;
         int comp_staff_quantity;
-        double comp_revenue; // Changed to double for revenue
+        double comp_revenue; 
         int comp_import_raw_diamonds;
         int comp_export_diamonds;
         string comp_ceo;
