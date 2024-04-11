@@ -63,8 +63,44 @@ below mentioned attributes:
 - emp_city
 - emp_company_name
   
-- [x] **Input**:
+- [x] **Input**:Enter The Details Of Employee 1:
+Enter The Employee ID      :- 1
+Enter The Employee Name    :- bhavya
+Enter The Employee Role    :- flutter
+Enter The Employee Salary  :- 15000
+Enter The Employee Experience  :- 1
+Enter The Employee City    :- rajkot
+Enter The Employee Company :- tech
+
+Enter The Details Of Employee 2:
+Enter The Employee ID      :- 2
+Enter The Employee Name    :- bhavik
+Enter The Employee Role    :- fluttter
+Enter The Employee Salary  :- 20000
+Enter The Employee Experience  :- 1
+Enter The Employee City    :- rajkot
+Enter The Employee Company :- tech
+
 - [x] **Output**:
+Employees Information :-
+Employee 1:
+ID           : 1
+Name         : bhavya
+Role         : flutter
+Salary       : 15000
+Experience   : 1
+City         : rajkot
+Company Name : tech
+Employee 2:
+ID           : 2
+Name         : bhavik
+Role         : fluttter
+Salary       : 20000
+Experience   : 1
+City         : rajkot
+Company Name : tech
+
+
 - [x] **Screenshot**
       
 ### 📖 Task 2: WAP to get and display 4 Cars information
